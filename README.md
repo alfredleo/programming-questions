@@ -2,6 +2,7 @@
 
 ## [Java questions](java.md)
 ## [PHP questions](php.md)
+## [Python questions](python.md)
 
 ## TODO
 ## [Javascript]
