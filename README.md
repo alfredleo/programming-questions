@@ -1,4 +1,4 @@
-# Вопросы для повышения уровня знаний в ITMED 
+# Вопросы для повышения уровня знаний
 
 ## [Java questions](java.md)
 ## [PHP questions](php.md)
