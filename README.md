@@ -1,3 +1,5 @@
+Взято из https://techrocks.ru/2021/04/18/250-php-job-interview-questions/?utm_source=facebook&utm_medium=social&utm_campaign=voprosy-ot-intervyuerov--kotorye-oni-zad
+
 # php-questions
 250+ вопросов с собеседований по PHP (для уровня Junior, Middle и Senior)
 
