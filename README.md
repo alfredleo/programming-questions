@@ -3,7 +3,7 @@
 ## [Java questions](java.md)
 ## [PHP questions](php.md)
 ## [Python questions](python.md)
-## [C# questions](c#.md)
+## [C# questions](cs.md)
 
 ## TODO
 ## [Javascript]
