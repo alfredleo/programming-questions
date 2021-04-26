@@ -1,5 +1,8 @@
 # Вопросы по Java.
 Взято из https://itvdn.com/ru/blog/article/250-questions-java
+Полезные ссылки:
+https://habr.com/ru/post/485678/
+https://javarush.ru/groups/posts/3243-razbor-voprosov-i-otvetov-na-sobesedovanii-chastjh-1
 
 ## Junior
 
