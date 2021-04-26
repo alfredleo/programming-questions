@@ -1,14 +1,15 @@
-Вопросы по Java. Взято из https://itvdn.com/ru/blog/article/250-questions-java
+# Вопросы по Java.
+Взято из https://itvdn.com/ru/blog/article/250-questions-java
 
-Junior
+## Junior
 
-Общие
+### Общие
 
 1. Какие знаете шаблоны проектирования? Расскажите о двух шаблонах, которые использовали в работе.
 
  
 
-Java Core
+### Java Core
 
 2. Какие есть типы данных в Java?
 
@@ -46,7 +47,7 @@ Java Core
 
  
 
-ООП
+### ООП
 
 19. Что такое ООП? Назовите принципы с примерами.
 
@@ -158,7 +159,7 @@ Java Core
 
  
 
-String
+### String
 
 72. Дайте характеристику String в Java.
 
@@ -182,7 +183,7 @@ String
 
  
 
-Enum
+### Enum
 
 82. Дайте краткую характеристику Enum в Java.
 
@@ -356,7 +357,7 @@ Exceptions
 
  
 
-Middle
+## Middle
 
 Общие
 
@@ -560,7 +561,7 @@ Stream API
 
  
 
-Senior
+## Senior
 
 Общие
 
